@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/japeshuta/shareable/issues"
   },
-  "homepage": "https://github.com/japeshuta/shareable#readme"
+  "homepage": "https://github.com/japeshuta/shareable#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
